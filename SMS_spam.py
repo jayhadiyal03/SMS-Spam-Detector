@@ -15,7 +15,7 @@ from sklearn.feature_selection import SelectFromModel
 nltk.download('stopwords')
 nltk.download('wordnet')
 
-# Loading the dataset 
+# Loading the dataset (Replace path with your path)
 csv_file_path = "C:/Users/Jay/UpGrade - Data Science Course/spam.csv"
 df = pd.read_csv(csv_file_path, encoding='latin-1')
 print(df.head())
