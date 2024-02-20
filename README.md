@@ -10,7 +10,9 @@ Machine Learning Model: A machine learning model, trained on labeled SMS data, i
 # Usage
 # Installation:
 Clone the repository: git clone (https://github.com/jayhadiyal03/SMS-Spam-Detector.git)
+
 Install dependencies: pip install pandas nltk
+
 Download NLTK resources: python -m nltk.downloader punkt
 
 # Run the Script:
